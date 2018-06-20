@@ -1,0 +1,55 @@
+SMTP Server login credentials
+User Name:xencia
+Password: Xencia@
+
+https://apm-apmtester.msappproxy.net/
+
+Application Login Credentials:
+User Name: admin
+Password: admin
+http://localhost:8080/index.do
+
+PravinSubscription:
+Application ID or Client ID: 994178f5-ba2a-4c6d-ae93-ae20fbb7af2f                                                          
+App Key: n1se6spZb+HGY43k0uIOc7j86XoTPogHqG6XPs0l94k=
+Tenent ID or Directory ID: 51e479d1-1c94-484f-a992-772b5e6115a1
+
+Empire Group of Hotels:
+Application ID or Client ID: 29ec6d7f-e327-421b-9110-3eae7188a94b                                                            
+App Key: Hd69/RfUFUn2xL6UE31/jF9JpxjQ8Da5QgEMSgDaDaA=
+Tenent ID or Directory ID: d09c9402-206b-48a1-8c24-bb5d55076a3b
+
+Spintech:
+Application ID or Client ID: 2382e608-badf-462d-8f7b-57b24dae51aa
+App Key: BD2wjf7xDaEFPGr48Qh8i/jMBRq7BfUzAXdjc5rTnIk=
+Tenent ID or Directory ID: 0cf1a24e-6d0c-462d-99f0-c77b8abeefbc
+
+Good Method Glodal:
+Application ID or Client ID: 6b0e1608-f1b1-4182-8815-c46f3dfb98c0
+App Key: 6B62/kWC+CSx2iKSXeDYnH0Vg1/3hCvOIyQOEj6/fXQ=
+Tenent ID or Directory ID: 5ebcae6e-6233-4898-b2ce-661035a7dc72
+
+Bit-Pos
+Application ID or Client ID: c25c5d52-6a0a-4138-a62c-dff1417c96ae
+App Key: gdsnKJft92EYsi5SbPUReyZT28ntrWdJjeR4xZ33A/I=
+Tenent ID or Directory ID: a402f8f2-5faf-4002-82e9-179509362a23
+
+K7 Computing PVT LTD
+Application ID or Client ID: fb07287c-bc0f-4b6b-99e8-8a1d5d2212a9
+App Key: emh827o6qPOuCzyfGAxEZ1VKD6CDvq4sv7Lft8Tp/b8=
+Tenent ID or Directory ID: 917236d3-211c-4d40-ae13-e6ba09000513
+
+Ad Hash:
+Application ID or Client ID: 935324ad-ddce-460a-9055-9fdf8fdad501
+App Key: IPIIdrI/FXNLxDE/ofFvC8nbfI57P8GV2vWv802Nz54=
+Tenent ID or Directory ID: d7e40c48-f8b5-4333-a65b-e6269b3c7bcf
+
+Dandidepenning:
+Application ID or Client ID: c256861e-44f7-46c1-8627-c0e4f57b1e93
+App Key: T+17y8ShXoTpVRHuj0fjutDIDQrTzy5cBfmEt/z7m4I=
+Tenent ID or Directory ID: 079b7400-d694-4637-bc69-d7e42d2502c4
+
+Trademarkdepenning:
+Application ID or Client ID: 3f3e6b4b-5683-481d-b7f4-f2fa6218dd9f
+App Key: aP7DIYZeTxYZGtVq6isF2QZG5y/bs26sAnwVCmFo+ks=
+Tenent ID or Directory ID: b18fc309-d04f-4168-ba45-f8729e516a23

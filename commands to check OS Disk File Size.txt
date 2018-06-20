@@ -1,0 +1,5 @@
+$ cd /
+$ sudo du -sh ./*
+ls log -s
+ls -la
+du -h /var
